@@ -5,10 +5,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Your Project]**
+- 🔭 I’m currently working on **https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git**
 - 🌱 I’m currently learning **Docker,nextJs**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Angular, React, nodejs, .NET, and Spring Boot**
+- 💬 Ask me about **Full Stack development**
 - 📫 How to reach me: **nirodhadilshan123@gmail.com**
 
 ---
