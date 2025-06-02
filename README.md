@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[Your Project]**
 - 🌱 I’m currently learning **Docker,nextJs**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Angular, React, .NET, and Spring Boot**
+- 💬 Ask me about **Angular, React, nodejs, .NET, and Spring Boot**
 - 📫 How to reach me: **nirodhadilshan123@gmail.com**
 
 ---
@@ -29,7 +29,7 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,flutter,cs,dotnet,java,python,spring,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,flutter,cs,dotnet,java,python,spring,html,css,tailwind,git,github" />
 </p>
 
 ---
@@ -37,11 +37,14 @@
 
 
 ### 🧠 Latest Projects
-
-- 🔹 [Project 1](https://github.com/your-username/project1)
-- 🔹 [Project 2](https://github.com/your-username/project2)
-- 🔹 [Portfolio Website](https://yourportfolio.com)
-
+- 🔹 [Portfolio ](https://yourportfolio.com)
+- 🔹 [final year project --- react, .NET, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
+- 🔹 [Typing Game --- react, .NET](https://github.com/dilshannirodha/React-Typing-App.git)
+- 🔹 [Student Management --- Angular, Spring Boot](https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git)
+- 🔹 [Login System --- Flutter, firebase](https://github.com/dilshannirodha/loginApp-flutter-firebase.git)
+- 🔹 [Memo Approval --- M E R N  Stack](https://github.com/dilshannirodha/memo-approval-system-MERN.git)
+- 🔹 [Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
+- 🔹 [Student Management --- Django](https://github.com/dilshannirodha/django-student-management-system.git)
 ---
 
 
