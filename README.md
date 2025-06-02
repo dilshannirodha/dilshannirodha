@@ -37,14 +37,14 @@
 
 
 ### 🧠 Latest Projects
-- 🔹 [Portfolio ](https://yourportfolio.com)
-- 🔹 [final year project --- react, .NET, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
-- 🔹 [Typing Game --- react, .NET](https://github.com/dilshannirodha/React-Typing-App.git)
-- 🔹 [Student Management --- Angular, Spring Boot](https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git)
-- 🔹 [Login System --- Flutter, firebase](https://github.com/dilshannirodha/loginApp-flutter-firebase.git)
-- 🔹 [Memo Approval --- M E R N  Stack](https://github.com/dilshannirodha/memo-approval-system-MERN.git)
-- 🔹 [Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
-- 🔹 [Student Management --- Django](https://github.com/dilshannirodha/django-student-management-system.git)
+-  [Portfolio --- Nextjs](https://github.com/dilshannirodha/portfolio---NextJs.git)
+-  [final year project --- react, .NET, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
+-  [Typing Game --- react, .NET](https://github.com/dilshannirodha/React-Typing-App.git)
+-  [Student Management --- Angularjs, Spring Boot](https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git)
+-  [Login System --- Flutter, firebase](https://github.com/dilshannirodha/loginApp-flutter-firebase.git)
+-  [Memo Approval --- M E R N  Stack](https://github.com/dilshannirodha/memo-approval-system-MERN.git)
+-  [Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
+-  [Student Management --- Django](https://github.com/dilshannirodha/django-student-management-system.git)
 ---
 
 
