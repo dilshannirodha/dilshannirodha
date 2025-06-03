@@ -21,7 +21,7 @@
   <a href="nirodhadilshan123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://dilshannirodha.github.io/portfolio---NextJs/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white" />
   </a>
 </p>
