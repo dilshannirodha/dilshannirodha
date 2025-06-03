@@ -15,21 +15,22 @@
 ### 📫 Connect with Me:
 
 <p align="left">
-  <a href="www.linkedin.com/in/dilshan-nirodha-585a5631b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/dilshan-nirodha-585a5631b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" style="height: 40px;" />
   </a>
-  <a href="nirodhadilshan123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" />
+  <a href="mailto:nirodhadilshan123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" style="height: 40px;" />
   </a>
   <a href="https://dilshannirodha.github.io/portfolio---NextJs/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white" style="height: 40px;" />
   </a>
 </p>
+
 
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,flutter,cs,dotnet,java,python,spring,html,css,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,react,next,flutter,cs,dotnet,java,python,dart,nodejs,spring,html,css,tailwind,git,github,postman,vscode,idea,mysql,mongodb" />
 </p>
 
 ---
