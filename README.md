@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Full Stack development**
 - 📫 How to reach me: **nirodhadilshan123@gmail.com**
 
@@ -37,7 +36,7 @@
 
 ### 🧠 Latest Projects
 -  [Portfolio --- Nextjs](https://github.com/dilshannirodha/portfolio---NextJs.git)
--  [react ui library published --- ( npm install dilshan-ui-lib )](https://github.com/dilshannirodha/React-UI-Library.git)
+-  [react ui library published --- ( npm install dilshan-react-lib )](https://github.com/dilshannirodha/React-UI-Library.git)
 -  [L M S --- Angular, .NET Web Api](https://github.com/dilshannirodha/lms-angular-dotnet.git)
 -  [final year project --- react, .NET Web Api, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
 -  [Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
