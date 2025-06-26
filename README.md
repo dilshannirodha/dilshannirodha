@@ -35,9 +35,9 @@
 
 
 ### 🧠 Latest Projects
--  ➤[Portfolio --- Nextjs](https://github.com/dilshannirodha/portfolio---NextJs.git)
--  ➤[L M S --- Angular, .NET Web Api](https://github.com/dilshannirodha/lms-angular-dotnet.git)
--  ➤[final year project --- react, .NET Web Api, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
+ ➤[Portfolio --- Nextjs](https://github.com/dilshannirodha/portfolio---NextJs.git)
+ ➤[L M S --- Angular, .NET Web Api](https://github.com/dilshannirodha/lms-angular-dotnet.git)
+ ➤[final year project --- react, .NET Web Api, python flask](https://github.com/dilshannirodha/Memory-testing-application-dotnet-react-flask.git)
 -  ➤[Sri Lankan Coin Detection --- YOLO, Python, React](https://github.com/dilshannirodha/sri-lankan-coin-detection-opencv-yolo.git)
 -  ➤[Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
 -  ➤[Typing Game --- react, .NET Web Api](https://github.com/dilshannirodha/React-Typing-App.git)
