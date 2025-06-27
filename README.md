@@ -4,15 +4,10 @@
 
 ### 👨‍💻 About Me
 
-🚀 Welcome to my world of **Full Stack Development**! I'm passionate about crafting robust, scalable, and beautiful web applications using modern technologies.
+🚀 Welcome to my world of **Full Stack Development**! I'm passionate about crafting robust, scalable, and clean web applications using modern technologies.
 
 🌐 **Portfolio:**  
 🔗 [**dilshannirodha.github.io/portfolio---NextJs/**](https://dilshannirodha.github.io/portfolio---NextJs/)
-
-💡 **What I Do:**  
-- 🔧 Build full-featured applications with **React**, **Angular**, **Next.js**, **.NET**, **Spring Boot**, and **Node.js**  
-- 🛠️ Create powerful backend systems with **REST APIs**, **JWT Authentication**, and **database management**  
-- 🤖 Integrate **AI and Computer Vision** solutions (YOLO, Tesseract, etc.)
 
 📫 **Let's Connect:**  
 📧 Email: [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)  
@@ -42,6 +37,7 @@
 
 ---
 
+![snake gif](https://github.com/dilshannirodha/dilshannirodha/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🧠 Latest Projects
