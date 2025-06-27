@@ -3,9 +3,20 @@
 ---
 
 ### 👨‍💻 About Me
-- MY PORTFOLIO **https://dilshannirodha.github.io/portfolio---NextJs/**
-- 💬 Ask me about **Full Stack development**
-- 📫 How to reach me: **nirodhadilshan123@gmail.com**
+
+🚀 Welcome to my world of **Full Stack Development**! I'm passionate about crafting robust, scalable, and beautiful web applications using modern technologies.
+
+🌐 **Portfolio:**  
+🔗 [**dilshannirodha.github.io/portfolio---NextJs/**](https://dilshannirodha.github.io/portfolio---NextJs/)
+
+💡 **What I Do:**  
+- 🔧 Build full-featured applications with **React**, **Angular**, **Next.js**, **.NET**, **Spring Boot**, and **Node.js**  
+- 🛠️ Create powerful backend systems with **REST APIs**, **JWT Authentication**, and **database management**  
+- 🤖 Integrate **AI and Computer Vision** solutions (YOLO, Tesseract, etc.)
+
+📫 **Let's Connect:**  
+📧 Email: [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)  
+💬 Feel free to reach out for collaboration, freelance work, or just to say hi!
 
 ---
 ### 📫 Connect with Me:
