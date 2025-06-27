@@ -37,8 +37,6 @@
 
 ---
 
-![snake gif](https://github.com/dilshannirodha/dilshannirodha/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🧠 Latest Projects
 -  [Portfolio --- Nextjs](https://github.com/dilshannirodha/portfolio---NextJs.git)
