@@ -28,6 +28,7 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/dilshannirodha/dilshannirodha/blob/output/github-contribution-grid-snake.svg)
 
 ### 🛠️ Languages and Tools:
 
