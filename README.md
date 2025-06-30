@@ -51,7 +51,6 @@
 -  [Memo Approval --- M E R N  Stack](https://github.com/dilshannirodha/memo-approval-system-MERN.git)
 -  [Student Management --- Django](https://github.com/dilshannirodha/django-student-management-system.git)
 -  [react ui library published --- ( npm install dilshan-react-lib )](https://github.com/dilshannirodha/React-UI-Library.git)
-![Snake animation](https://github.com/dilshannirodha/dilshannirodha/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
