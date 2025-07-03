@@ -19,7 +19,7 @@
 📧 Email: [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)  
 💬 Feel free to reach out for collaboration, freelance work, or just to say hi!
 
-#### 🎮 Touch Typing Enthusiast
+#### ⌨️ Touch Typing Enthusiast
 I'm a passionate typing enthusiast ![Typing Speed](https://img.shields.io/badge/Typing%20Speed-120%20WPM-brightgreen)
 
 ---
