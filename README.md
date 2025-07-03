@@ -63,3 +63,6 @@
 ### Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
 
+### Touch typing speed
+![Typing Speed](https://img.shields.io/badge/Typing%20Speed-120%20WPM-brightgreen)
+
