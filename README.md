@@ -51,17 +51,13 @@
 -  [Blog App --- M E A N  Stack](https://github.com/dilshannirodha/Blog-App-MEAN-Stack.git)
 -  [Typing Game --- react, .NET Web Api](https://github.com/dilshannirodha/React-Typing-App.git)
 -  [Student Management --- Angular, Spring Boot](https://github.com/dilshannirodha/student-mangement-system-angular-springboot.git)
+-  [POS --- Spring Boot](https://github.com/dilshannirodha/pos-springboot.git)
 -  [Task Manager --- Laravel, Angular](https://github.com/dilshannirodha/Task-Manager-Laravel-Angular.git) 
 -  [Login System --- Flutter, firebase](https://github.com/dilshannirodha/loginApp-flutter-firebase.git)
 -  [Memo Approval --- M E R N  Stack](https://github.com/dilshannirodha/memo-approval-system-MERN.git)
 -  [Student Management --- Django](https://github.com/dilshannirodha/django-student-management-system.git)
 
 ---
-
-### 🐍 Snake Contribution Graph
-
-![GitHub Snake Light](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
-![GitHub Snake Dark](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### Visitor Count
 ![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
