@@ -5,8 +5,6 @@
 
 🚀 Welcome to my world of **Full Stack Development**! I'm passionate about crafting robust, scalable, and clean web applications using modern technologies.
 
-![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
-
 🌐 **Portfolio:**  
 🔗 [**dilshannirodha.github.io/portfolio---NextJs/**](https://dilshannirodha.github.io/portfolio---NextJs/)
 
