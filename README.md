@@ -10,7 +10,7 @@
 🔗 [**dilshannirodha.github.io/portfolio---NextJs/**](https://dilshannirodha.github.io/portfolio---NextJs/)
 
 
-🌐 **Typing game deployed by me - React:**  
+🌐 **Typing game depployed in github pages - React:**  
 🔗 [**https://dilshannirodha.github.io/deploy-react-typing-game/**](https://dilshannirodha.github.io/deploy-react-typing-game/)  
 
 
