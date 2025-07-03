@@ -9,6 +9,11 @@
 🌐 **Portfolio:**  
 🔗 [**dilshannirodha.github.io/portfolio---NextJs/**](https://dilshannirodha.github.io/portfolio---NextJs/)
 
+
+🌐 **Typing game deployed by me - React:**  
+🔗 [**https://dilshannirodha.github.io/deploy-react-typing-game/**](https://dilshannirodha.github.io/deploy-react-typing-game/)  
+
+
 📫 **Let's Connect:**  
 📧 Email: [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)  
 💬 Feel free to reach out for collaboration, freelance work, or just to say hi!
