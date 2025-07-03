@@ -63,3 +63,6 @@
 ![GitHub Snake Light](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Snake Dark](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+### Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
+
