@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilshan</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
+### Visitor Count
+![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
 
 ### 👨‍💻 About Me
 
@@ -17,6 +19,9 @@
 📫 **Let's Connect:**  
 📧 Email: [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)  
 💬 Feel free to reach out for collaboration, freelance work, or just to say hi!
+
+## 🎮 Typing Enthusiast
+I'm a passionate typing enthusiast ![Typing Speed](https://img.shields.io/badge/Typing%20Speed-120%20WPM-brightgreen)
 
 ---
 ### 📫 Connect with Me:
@@ -60,9 +65,6 @@
 -  [Car Simulation --- Unity](https://github.com/dilshannirodha/unity-car-simulation.git)
 
 ---
-### Visitor Count
-![Profile Views](https://komarev.com/ghpvc/?username=dilshannirodha&color=green)
 
-### Touch typing speed
-![Typing Speed](https://img.shields.io/badge/Typing%20Speed-120%20WPM-brightgreen)
+
 
