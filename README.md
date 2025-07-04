@@ -1,4 +1,6 @@
-<h1 align="center">Hi , I'm Dilshan — A passionate Full Stack Developer</h1>
+<p align="center">
+  <img src="image.png" width="100%" alt="Profile Image" width="200"/>
+</p>
 
 ##  About Me
 ### E-mail [nirodhadilshan123@gmail.com](mailto:nirodhadilshan123@gmail.com)
