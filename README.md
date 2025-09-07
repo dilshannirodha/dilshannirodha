@@ -20,7 +20,7 @@ Welcome to my world of **Full Stack Development**! I'm passionate about crafting
 </a>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,angular,dotnet,react,flutter,js,ts,cs,java,dart,nodejs,spring" />
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,docker,react,flutter,js,ts,cs,java,dart,nodejs,spring,python," />
 </p>   
 
 ----
