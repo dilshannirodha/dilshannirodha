@@ -15,10 +15,6 @@ Welcome to my world of **Full Stack Development**! I'm passionate about crafting
   <img src="https://img.shields.io/badge/My%20Typing%20Game-Play%20Now-blue?logo=react" height="32">
 </a>
 
-<a href="https://dilshannirodha.github.io/deploy-react-typing-game/">
- <img src="https://img.shields.io/badge/Passionate%20Typing%20Enthusiast-120%20WPM-brightgreen" height="32">
-</a>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=angular,dotnet,docker,react,flutter,js,ts,cs,java,dart,nodejs,spring,python," />
 </p>   
